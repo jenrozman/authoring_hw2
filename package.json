@@ -1,0 +1,30 @@
+{
+  "name": "jen",
+  "version": "1.0.0",
+  "description": "hmwrk2 grun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenrozman/authoring_hw2"
+  },
+  "keywords": [
+    "grunt",
+    "hmwrk"
+  ],
+  "author": "jen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenrozman/authoring_hw2/issues"
+  },
+  "homepage": "https://github.com/jenrozman/authoring_hw2",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
