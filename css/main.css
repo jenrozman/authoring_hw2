@@ -1,2 +1,8 @@
-body{color:red;font-size:3em;font-family:arial}body{background-color:blue}
+body{
+	color: purple;
+	font-size: 3em;
+	font-family: arial;
+	background-color: gray;
+}
+h2{color: #88a80d}
 /*# sourceMappingURL=main.css.map */
